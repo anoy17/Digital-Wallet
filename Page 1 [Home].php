@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,13 +7,8 @@
 </head>
 <body>
 <h1> Page 1 [Home] </h1>
-<?php>
-if(isset($_POST ('submit']))(
-$selectcategory = POST[ ' select category'];
-$to = POST[ 'to'];
-$amount = POST[ ' amount'];
- 
-?>
+
+
 <form action="Page 3 [Transaction History].php" method="POST">
 
 <legend><b>Digital Wallet</b></legend>
