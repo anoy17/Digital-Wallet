@@ -17,9 +17,9 @@ $?>
 
 <legend><b>Digital Wallet</b></legend>
 <br>
-<a href = Page 1 [Home].php> 1.Home</a>      
-<a href = Page 2 [Add Beneficiary].php> 2.Add Beneficiary</a>
-<a href = Page 3 [Transaction Hitory].php> 3.Transaction Hitory</a>
+<a href = http://localhost/Digital%20wallet/Page%201%20%5bHome%5d.php> 1.Home</a>      
+<a href = http://localhost/Digital%20wallet/Page%202%20%5bAdd%20Beneficiary%5d.php> 2.Add Beneficiary</a>
+<a href = http://localhost/Digital%20wallet/Page%203%20%5bTransaction%20History%5d.php> 3.Transaction Hitory</a>
 <br>
 <br>
 <legend><b>Fund Transfer:</b></legend>
