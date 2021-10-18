@@ -12,7 +12,7 @@ $selectcategory = POST[ ' select category'];
 $to = POST[ 'to'];
 $amount = POST[ ' amount'];
  
-$?>
+?>
 <form action="Page 3 [Transaction History].php" method="POST">
 
 <legend><b>Digital Wallet</b></legend>
